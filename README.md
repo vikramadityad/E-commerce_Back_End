@@ -1,7 +1,5 @@
 # E-commerce Back End
 
-**GitHub Repository:** [https://github.com/vikramadityad/E-commerce_Back_End](https://github.com/vikramadityad/E-commerce_Back_End)
-
 ## Description
 
 This an API for a social network web application that allows users to share their thoughts, react to friends' thoughts, and create a friend list. It utilizes Express.js for routing, a MongoDB database, and the Mongoose ODM. Additionally, you have the option to use a JavaScript date library of your choice or the native JavaScript Date object to format timestamps.
@@ -9,6 +7,9 @@ This an API for a social network web application that allows users to share thei
 ## Walkthrough Video
 
 You can find the walkthrough video for this project https://drive.google.com/file/d/1ilOEz_VbjJyXeHD6wDwO-77hkwTgHzMF/view?usp=sharing.
+
+# Screenshot
+
 
 ## Installation
 
