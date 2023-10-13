@@ -9,6 +9,7 @@ This an API for a social network web application that allows users to share thei
 You can find the walkthrough video for this project https://drive.google.com/file/d/1ilOEz_VbjJyXeHD6wDwO-77hkwTgHzMF/view?usp=sharing.
 
 # Screenshot
+<img width="2554" alt="Screenshot 2023-10-12 at 10 51 27 PM" src="https://github.com/vikramadityad/E-commerce_Back_End/assets/28673859/c297db03-af10-4cb9-8493-cad1939773ac">
 
 
 ## Installation
